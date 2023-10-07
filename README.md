@@ -1,0 +1,1 @@
+Exercise 2 of the technical challenge if the company Creative Coefficient
