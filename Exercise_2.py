@@ -1,4 +1,4 @@
-"""Descripción del ejercicio: There is a queue for the self-checkout tills at the supermarket. Your task is to write a function
+"""Exercise description: There is a queue for the self-checkout tills at the supermarket. Your task is to write a function
 to calculate the total time required for all the customers to check out!
 Input
     customers: an array of positive integers representing the queue. Each integer represents a
